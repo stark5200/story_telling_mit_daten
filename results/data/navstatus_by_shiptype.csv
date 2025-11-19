@@ -1,0 +1,103 @@
+shiptype,navigationalstatus,count
+Cargo,At anchor,228
+Cargo,Constrained by her draught,5336
+Cargo,Moored,1208
+Cargo,Not under command,1
+Cargo,Power-driven vessel pushing ahead or towing alongside,1
+Cargo,Restricted maneuverability,6
+Cargo,Under way sailing,401
+Cargo,Under way using engine,182236
+Cargo,Unknown value,252
+Dredging,At anchor,9
+Dredging,Constrained by her draught,27
+Dredging,Engaged in fishing,1
+Dredging,Moored,132
+Dredging,Restricted maneuverability,186
+Dredging,Under way sailing,57
+Dredging,Under way using engine,4836
+Dredging,Unknown value,165
+Fishing,At anchor,7
+Fishing,Engaged in fishing,10411
+Fishing,Moored,150
+Fishing,Not under command,21
+Fishing,Reserved for future amendment [HSC],211
+Fishing,Reserved for future amendment [WIG],12
+Fishing,Under way sailing,533
+Fishing,Under way using engine,6405
+Fishing,Unknown value,5999
+HSC,Moored,148
+HSC,Reserved for future amendment [HSC],1661
+HSC,Under way sailing,19
+HSC,Under way using engine,1915
+HSC,Unknown value,10
+Law enforcement,At anchor,1
+Law enforcement,Moored,24
+Law enforcement,Restricted maneuverability,12
+Law enforcement,Under way using engine,1514
+Law enforcement,Unknown value,84
+Military,At anchor,11
+Military,Moored,483
+Military,Not under command,6
+Military,Restricted maneuverability,72
+Military,Under way sailing,51
+Military,Under way using engine,6208
+Military,Unknown value,16
+Passenger,Moored,288
+Passenger,Not under command,1
+Passenger,Under way sailing,4
+Passenger,Under way using engine,16723
+Passenger,Unknown value,673
+Pilot,Moored,147
+Pilot,Power-driven vessel towing astern,131
+Pilot,Restricted maneuverability,4
+Pilot,Under way sailing,7
+Pilot,Under way using engine,3348
+Pilot,Unknown value,278
+Pleasure,Moored,92
+Pleasure,Under way sailing,1
+Pleasure,Under way using engine,31
+Pleasure,Unknown value,3758
+Port tender,Moored,54
+Port tender,Under way sailing,30
+Port tender,Under way using engine,1
+Port tender,Unknown value,158
+Reserved,At anchor,24
+Reserved,Constrained by her draught,25
+Reserved,Moored,81
+Reserved,Restricted maneuverability,79
+Reserved,Under way sailing,5
+Reserved,Under way using engine,491
+Reserved,Unknown value,66
+SAR,At anchor,1
+SAR,Moored,262
+SAR,Restricted maneuverability,1
+SAR,Under way using engine,805
+SAR,Unknown value,784
+Sailing,Moored,76
+Sailing,Under way sailing,6
+Sailing,Under way using engine,140
+Sailing,Unknown value,2207
+Tanker,At anchor,210
+Tanker,Constrained by her draught,6897
+Tanker,Moored,369
+Tanker,Not under command,1
+Tanker,Under way sailing,191
+Tanker,Under way using engine,70785
+Tanker,Unknown value,33
+Towing,At anchor,14
+Towing,Moored,58
+Towing,Restricted maneuverability,291
+Towing,Under way sailing,42
+Towing,Under way using engine,629
+Towing long/wide,Moored,2
+Towing long/wide,Restricted maneuverability,340
+Towing long/wide,Under way using engine,244
+Tug,At anchor,5
+Tug,Moored,436
+Tug,Not under command,1
+Tug,Power-driven vessel pushing ahead or towing alongside,235
+Tug,Power-driven vessel towing astern,246
+Tug,Restricted maneuverability,746
+Tug,Under way sailing,49
+Tug,Under way using engine,7908
+Tug,Unknown value,299
